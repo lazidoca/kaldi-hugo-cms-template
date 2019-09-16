@@ -1,0 +1,3 @@
+[submodule "site/kaldi-hugo-cms-template-content"]
+	path = site/kaldi-hugo-cms-template-content
+	url = https://github.com/lazidoca/kaldi-hugo-cms-template-content.git

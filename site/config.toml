@@ -1,3 +1,5 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
+
+contentDir = "kaldi-hugo-cms-template-content"
